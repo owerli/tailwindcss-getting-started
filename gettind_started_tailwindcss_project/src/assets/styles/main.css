@@ -1,0 +1,22 @@
+@import url('./base.css');
+
+@font-face {
+  font-family: "Circular";
+  font-style: normal;
+  font-weight: bold;
+  src: url(fb72b487cf867b50d2cb.woff2) format("woff2"),url(b0808321079afca2aa34.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Circular";
+  font-style: normal;
+  font-weight: normal;
+  src: url(1f1f0b7a337d291e40d2.woff2) format("woff2"),url(21a2c3d36dbaade80e2c.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Circular";
+  font-style: normal;
+  font-weight: 500;
+  src: url(2858431679b815919f95.woff2) format("woff2"),url(1dd319b87a915b106596.woff) format("woff");
+}
